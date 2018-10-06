@@ -3,6 +3,7 @@ Meower - Twitter for Cats! 😸 is a small app demonstrating the basics of full 
 
 * Cats can send a mew 😸✉️
 * Cats can see all mews that have been sent 😻🗂
+* Link to the finish app [meower app link](https://ps-meower.now.sh)
 
 ![example-site](example-site.gif)
 
